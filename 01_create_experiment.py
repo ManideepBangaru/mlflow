@@ -8,5 +8,7 @@ if __name__ == '__main__':
     #         artifact_location = "testing_mlflow1_artifacts",
     #         tags = {"env":"dev","version":"1.0.0"},
     # )
-    experiment_id = create_mlflow_experiment(experiment_name="testing_mlflow2", artifact_location="testing_mlflow2_artifacts", tags={"env":"dev","version":"1.0.0"})
+    experiment_id = create_mlflow_experiment(experiment_name="testing_mlflow2", 
+                                             artifact_location="testing_mlflow2_artifacts", 
+                                             tags={"env":"dev","version":"1.0.0"})
     print("Experiment ID : ", experiment_id)
