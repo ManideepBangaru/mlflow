@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/mlflow_runs2
+creation_time: 1712309134055
+experiment_id: '734349025012032533'
+last_update_time: 1712309282680
+lifecycle_stage: deleted
+name: testing_mlflow1
+tags:
+  env: dev
