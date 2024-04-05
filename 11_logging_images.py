@@ -56,6 +56,3 @@ if __name__=="__main__":
         print("start_time: {}".format(run.info.start_time))
         print("end_time: {}".format(run.info.end_time))
         print("lifecycle_stage: {}".format(run.info.lifecycle_stage))
-
-
-
