@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/mlruns/0/b69c4f25a11a461aa7eeb763d4bd5c35/artifacts
+end_time: 1712269777250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b69c4f25a11a461aa7eeb763d4bd5c35
+run_name: rare-grouse-372
+run_uuid: b69c4f25a11a461aa7eeb763d4bd5c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712269777227
+status: 3
+tags: []
+user_id: manideepbangaru

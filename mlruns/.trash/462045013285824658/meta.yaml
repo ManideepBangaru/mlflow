@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/testing_mlflow1_artifacts
+creation_time: 1712239001883
+experiment_id: '462045013285824658'
+last_update_time: 1712269484699
+lifecycle_stage: deleted
+name: testing_mlflow1
+tags:
+  env: dev
+  mlflow.sharedViewState.d537fdc0c959fa49a2e0b67727b54010fcd4ffd194d195a2598ac3fdf5c6e596: '{"searchFilter":"","orderByKey":"attributes.start_time","orderByAsc":false,"startTime":"ALL","lifecycleFilter":"Active","datasetsFilter":[],"modelVersionFilter":"All
+    Runs","selectedColumns":["attributes.`Source`","attributes.`Models`","attributes.`Dataset`"],"runsExpanded":{},"runsPinned":[],"runsHidden":[],"runsHiddenMode":"FIRST_10_RUNS","viewMaximized":false,"runListHidden":false,"isAccordionReordered":false,"groupBy":"","groupsExpanded":{}}'
+  version: 1.0.0
