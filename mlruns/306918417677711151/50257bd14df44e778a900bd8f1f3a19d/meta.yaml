@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/model_signature_artifacts/50257bd14df44e778a900bd8f1f3a19d/artifacts
+end_time: 1712316917947
+entry_point_name: ''
+experiment_id: '306918417677711151'
+lifecycle_stage: active
+run_id: 50257bd14df44e778a900bd8f1f3a19d
+run_name: model_signature_run
+run_uuid: 50257bd14df44e778a900bd8f1f3a19d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712316914589
+status: 3
+tags: []
+user_id: Manideep

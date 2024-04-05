@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/mlruns/0/a81f14df39e440788e960bc97c7d59aa/artifacts
+deleted_time: 1712316890268
+end_time: 1712316607312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a81f14df39e440788e960bc97c7d59aa
+run_name: custom_model_run
+run_uuid: a81f14df39e440788e960bc97c7d59aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712316605189
+status: 3
+tags: []
+user_id: Manideep
