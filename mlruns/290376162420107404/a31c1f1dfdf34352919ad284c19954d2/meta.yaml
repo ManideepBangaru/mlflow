@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/nested_run_artifacts/a31c1f1dfdf34352919ad284c19954d2/artifacts
+end_time: 1712316489586
+entry_point_name: ''
+experiment_id: '290376162420107404'
+lifecycle_stage: active
+run_id: a31c1f1dfdf34352919ad284c19954d2
+run_name: child_12
+run_uuid: a31c1f1dfdf34352919ad284c19954d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712316489549
+status: 3
+tags: []
+user_id: Manideep
