@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/manideep/Documents/Learnings/mlflow_learn/mlflow/mlruns/0/e69d4061b4394a889281965712009f78/artifacts
+deleted_time: 1712306740078
+end_time: 1712306680579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e69d4061b4394a889281965712009f78
+run_name: monumental-duck-908
+run_uuid: e69d4061b4394a889281965712009f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712306680529
+status: 3
+tags: []
+user_id: Manideep
